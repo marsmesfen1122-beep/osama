@@ -17,3 +17,5 @@ openai
 deep-translator
 langdetect
 matplotlib
+streamlit
+faiss-cpu
